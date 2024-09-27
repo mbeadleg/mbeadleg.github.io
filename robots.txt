@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mbeadleg.github.io/sitemap.mbeadleg.gz
+Sitemap: https://mbeadleg.github.io/app/sitemap.mbeadleg.gz
+Sitemap: https://mbeadleg.github.io/assets/sitemap.mbeadleg.gz
+Sitemap: https://mbeadleg.github.io/css/sitemap.mbeadleg.gz
+Sitemap: https://mbeadleg.github.io/data/sitemap.mbeadleg.gz
+Sitemap: https://mbeadleg.github.io/includes/sitemap.mbeadleg.gz
+Sitemap: https://mbeadleg.github.io/item/sitemap.mbeadleg.gz
+Sitemap: https://mbeadleg.github.io/src/sitemap.mbeadleg.gz
